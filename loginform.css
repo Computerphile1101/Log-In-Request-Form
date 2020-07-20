@@ -1,0 +1,47 @@
+
+h1{
+  margin-left: 20%;
+  color: whitesmoke;
+  font-size: 50px;
+}
+
+form{
+  margin-left: 45%;
+  width: 10px;
+
+}
+
+ input:focus {
+   outline: none;
+   border-color: #4493FF;
+}
+
+
+input{
+  margin-top: 25px;
+  padding: 10px;
+  font-size: inherit;
+}
+
+
+#user, #password,#submit{
+ border-radius:20px;
+}
+
+
+
+#submit:hover{
+  cursor: pointer;
+}
+
+
+.u{
+  color:white;
+  position: absolute;
+  bottom: 50px;
+}
+.p{
+  color:white;
+  position: absolute;
+  bottom: 10px;
+}
