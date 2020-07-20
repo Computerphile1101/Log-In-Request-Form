@@ -16,30 +16,26 @@ form{
    border-color: #4493FF;
 }
 
-
 input{
   margin-top: 25px;
   padding: 10px;
   font-size: inherit;
 }
 
-
 #user, #password,#submit{
  border-radius:20px;
 }
 
-
-
 #submit:hover{
   cursor: pointer;
 }
-
 
 .u{
   color:white;
   position: absolute;
   bottom: 50px;
 }
+
 .p{
   color:white;
   position: absolute;
